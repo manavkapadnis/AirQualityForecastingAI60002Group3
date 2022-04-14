@@ -10,7 +10,7 @@ Group members:
 
 ## Code Repository Organisation
 ```bash
-├── Data/
+├── dataset/
 |    ├── Gucheng
 |    ├── Nongzhanguan
 |    └── Wanshouxigong
