@@ -18,7 +18,7 @@ Group members:
 |    ├── Gucheng
 |    ├── Nongzhanguan
 |    └── Wanshouxigong
-├── Predictions/
+├── predictions/
 |    ├── Gucheng
 |    ├── Nongzhanguan
 |    └── Wanshouxigong
@@ -32,7 +32,7 @@ Group members:
 |    └── PRSA_Data_20130301-20170228/PRSA_Data_Shunyi_20130301-20170228.csv
 |    └── PRSA_Data_20130301-20170228/PRSA_Data_Tiantan_20130301-20170228.csv
 |    └── PRSA_Data_20130301-20170228/PRSA_Data_Wanliu_20130301-20170228.csv
-├── Result/
+├── result/
 |    ├── Gucheng_prophet.csv
 |    ├── Nongzhanguan_prophet.csv
 |    └── Wanshouxigong_prophet.csv
