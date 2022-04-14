@@ -5,6 +5,8 @@ Group members:
 - Abhranil Chandra (19ME30051)
 - Kolla Ananta Raj (19EE30012)
 - Parth Mane (19IE10020)
+- Akshat Patidar (18MA20004)
+- Amit Anand (18CE36002)
 
 ## Code Repository Organisation
 ```bash
