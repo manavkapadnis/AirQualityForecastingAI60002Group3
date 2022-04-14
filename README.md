@@ -14,6 +14,10 @@ Group members:
 |    ├── Gucheng
 |    ├── Nongzhanguan
 |    └── Wanshouxigong
+├── Forecast Images/
+|    ├── Gucheng
+|    ├── Nongzhanguan
+|    └── Wanshouxigong
 ├── Predictions/
 |    ├── Gucheng
 |    ├── Nongzhanguan
